@@ -225,8 +225,7 @@ background-position: 0% 50%;
   }
   
   .coloredb {
-    display: block;
-    width: 650px;
+    width: 500px;
   }
   
   .red {
@@ -259,11 +258,9 @@ background-position: 0% 50%;
   }
 
   .cbox {
-    display: inline-block;
     width: 200px;
-    padding: 10px 10px;
+    padding: 10px 0px;
     text-align: center;
-    justify-content: space-around;
   }
   
   .corner {
