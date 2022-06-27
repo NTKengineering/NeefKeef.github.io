@@ -225,7 +225,7 @@ background-position: 0% 50%;
   }
   
   .coloredb {
-    width: 500px;
+  
   }
   
   .red {
@@ -258,7 +258,7 @@ background-position: 0% 50%;
   }
 
   .cbox {
-    width: 200px;
+    width: 100px;
     padding: 10px 0px;
     text-align: center;
   }
@@ -277,6 +277,7 @@ background-position: 0% 50%;
     border-radius: 10px;
     opacity: 1;
     box-shadow: rgba(50,50,93,0.25) 10px 15px 5px;
+    overflow: hidden;
   }
   
   .imgdiv {
@@ -300,7 +301,6 @@ background-position: 0% 50%;
     border: 1px solid white;
     border-radius: 10px;
     background-color: white;
-    box-shadow: rgba(50,50,93,0.25) 10px 15px 5px;
     margin-top: 30px;
   }
 
@@ -321,7 +321,7 @@ background-position: 0% 50%;
 }
 
 .sticky {
-    width: 400px;
+    width: 300px;
     margin: 15px auto;
     text-align: center;
 }
